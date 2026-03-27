@@ -1,1 +1,12 @@
-Este repositório contém meu material de estudo sobre o princípio SOLID
+# **S.O.L.I.D \[PHP]**
+
+
+
+## Exemplos práticos dos princípios.
+
+
+
+Esses códigos são resultado dos meus estudos.
+
+Idéias e críticas construtivas são bem vindas.
+
